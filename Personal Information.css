@@ -1,0 +1,60 @@
+body{
+  background-image: url(image/IMG-20210623-WA0080.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+nav :hover {
+  text-decoration: underline;
+}
+nav{
+  text-align: center;
+  padding-top: 1%;
+  
+  
+}
+
+a{
+  
+  font-family: 'Mate SC', serif;
+  color: white;
+  text-decoration: none;
+  font-size: 30px;
+}
+p,fieldset,legend{
+  
+  color: white;
+}
+div{
+  font-family: 'Mate SC', serif;
+  border-color: white ;
+   border-style: solid;
+   border-width: 3px;
+   border-radius: 19px;
+   padding-left: 10px;
+   margin-top: 30px;
+   margin-left: 300px;
+   margin-right: 300px;
+   
+  
+}
+  footer{
+    color: white;
+    text-align: center;
+   font-size: 20px;
+   border-color: white;
+   border-style: solid;
+   border-width: 3px;
+   border-radius: 19px;
+   padding-left: center;
+   margin-top: 10px;
+   margin-left: 300px;
+   margin-right: 300px;
+    
+  }
+  h1{
+    font-family: 'Mate SC', serif;
+  color: white;
+  text-decoration: none;
+  font-size: 30px;
+    
+  }

@@ -1,0 +1,19 @@
+body{
+  background-image: url(image/photo-1552820728-8b83bb6b773f.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+}
+nav :hover {
+  text-decoration: underline;
+}
+nav{
+  text-align: center;
+  padding-top: 1%;
+  
+  
+}
+a{
+  color: white;
+  text-decoration: none;
+}

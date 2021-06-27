@@ -1,0 +1,40 @@
+body {
+  background-image: url(image/210915.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.gamename {
+  font-size: 30px;
+  font-weight: bold;
+  font-family: 'Times New Roman', Times, serif;
+  color: rgb(255, 1, 1);
+}
+
+.content {
+  font-size: 15px;
+  font-family: 'Times New Roman', Times, serif;
+  color: whitesmoke;
+}
+
+.sh {
+  font-size: 22px;
+  font-family: 'Times New Roman', Times, serif;
+  color: rgb(0, 217, 255);
+}
+
+nav :hover {
+  text-decoration: underline;
+}
+
+nav {
+  text-align: center;
+  padding-top: 1%;
+}
+
+a {
+  font-family: 'Mate SC', serif;
+  color: white;
+  text-decoration: none;
+  font-size: 30px;
+}

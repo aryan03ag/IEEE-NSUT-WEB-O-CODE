@@ -1,0 +1,13 @@
+body {
+    background-image: url(image/img1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+nav{
+  
+  text-align: center;
+}
+a{
+  color: white;
+  text-decoration: none;
+}
