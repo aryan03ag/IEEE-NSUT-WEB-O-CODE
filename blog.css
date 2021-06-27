@@ -23,11 +23,11 @@ body {
   color: rgb(0, 217, 255);
 }
 
-nav :hover {
+navbar :hover {
   text-decoration: underline;
 }
 
-nav {
+navbar {
   text-align: center;
   padding-top: 1%;
 }
@@ -38,7 +38,7 @@ a {
   text-decoration: none;
   font-size: 30px;
 }
-.nav {
+navbar {
   overflow: hidden;
   background-color: #333;
   position: fixed; /* Set the navbar to fixed position */
