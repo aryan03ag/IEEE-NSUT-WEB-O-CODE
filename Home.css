@@ -1,0 +1,42 @@
+
+body {
+    font-size: 15pt;
+    background-image: url('img1.jpg');
+    background-repeat:no-repeat;
+    background-size: cover;
+    
+}
+nav :hover {
+  text-decoration: underline;
+}
+nav{
+  text-align: center;
+  padding-top: 1%;
+  
+  
+}
+a{
+  
+  font-family: 'Mate SC', serif;
+  color: white;
+  text-decoration: none;
+  font-size: 30px;
+}
+
+h1{
+  margin-left: 390px;
+}
+
+button{
+  margin-top: 54px;
+    background-color: #666666;
+    margin-left: 651px;
+
+}
+
+hr{
+  width: 50%;
+    text-align: left;
+    margin-top: 104px;
+    margin-left: 25%;
+}
